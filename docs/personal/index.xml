@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal :: Web site Marcos</title>
+    <link>https://example.org/personal/index.html</link>
+    <description>Sobre mí Esta página tiene información sobre mi experiencia técnica Este texto lo quiero en color rosa</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Oct 2024 13:26:40 +0200</lastBuildDate>
+    <atom:link href="https://example.org/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programacion</title>
+      <link>https://example.org/personal/programacion/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 13:26:35 +0200</pubDate>
+      <guid>https://example.org/personal/programacion/index.html</guid>
+      <description>Programación Código de php&#xA;&lt;?php $a = rand(1,210): ?&gt;</description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>https://example.org/personal/markdown/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 13:26:40 +0200</pubDate>
+      <guid>https://example.org/personal/markdown/index.html</guid>
+      <description>Edición básica Títulos Para establecer los títulos usaré la siguiente sintaxis&#xA;# titulo1 ## titulo2 ### titulo3 #### titulo4 ##### titulo5 ###### titulo6 ---- y se verá Texto en negrita texto normal&#xA;titulo1 titulo2 titulo3 titulo4 titulo5 titulo6 Negrita y formato Para ver el texto en negrita escribo&#xA;**Texto en negrita** texto normal y se verá&#xA;Texto en negrita texto normal&#xA;{{`&lt;&gt;}} accede a la web y se verá</description>
+    </item>
+    <item>
+      <title>Personal</title>
+      <link>https://example.org/personal/personal/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 13:26:38 +0200</pubDate>
+      <guid>https://example.org/personal/personal/index.html</guid>
+      <description>Mis aficiones Comentaré lo que me gusta</description>
+    </item>
+  </channel>
+</rss>
